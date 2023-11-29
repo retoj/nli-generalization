@@ -84,7 +84,9 @@ Stab, Christian; Gurevych, Iryna. Argument Annotated Essays (version 2). (2017).
 
 ### Syllogistic Dataset
 
-TODO
+Use the script classify_logical_relationships_mnli.py, which takes as input a modellist (see modelmatters-nli-only-ta-bart.csv for formatting) and an inputfile with premise-hypothesis pairs, one per line, separated by tab (see the syllogistic dataset in the Data folder for example) and iterates over the models in modellist to predict the relationship between each premise-hypothesis pair in the inputfile. For the details of the syllogistic patterns used, see our paper.
+
+For fine-tuning, use finetune_syll_dgx.ipynb and follow instructions there.
 
 ## Note
 
