@@ -1,0 +1,10 @@
+pickleshare==0.7.5
+pandas==1.5.3
+spacy==3.7.2
+torch==2.1.1
+transformers==4.35.2
+sentence_transformers==2.2.2
+sklearn==0.0.post11
+protobuf==4.25.1
+nltk==3.8.1
+argparse==1.4.0
