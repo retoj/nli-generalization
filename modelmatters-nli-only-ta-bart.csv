@@ -1,0 +1,2 @@
+typeofmodel,fullmodelname,tokenizername,nameforfile
+bert,textattack/facebook-bart-large-MNLI,textattack/facebook-bart-large-MNLI,textattack-facebook-bart-large-MNLI
